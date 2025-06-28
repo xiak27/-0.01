@@ -16,7 +16,7 @@ print("反挂机开启")
 		   wait(1)
 		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
 		end)
-local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/iXGNieAz'))()
+local OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/Xingtaiduan/Script/refs/heads/main/Library/Fluent.lua'))()
 local Window = OrionLib:MakeWindow({Name ="沙脚本测试版0.5", HidePremium = false, SaveConfig = true,IntroText = "沙脚本测试版0.5", ConfigFolder = "沙脚本测试版0.5"})
 
 local Tab = Window:MakeTab({
