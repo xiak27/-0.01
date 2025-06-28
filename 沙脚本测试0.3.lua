@@ -234,9 +234,10 @@ Tab:AddButton({
   Callback = function()
 
 game.Players.LocalPlayer.Character.Head:Remove()
-
   end
-}Tab:AddButton({
+})
+
+Tab:AddButton({
   Name = "飞行",
   Callback = function()
   loadstring(game:HttpGet("https://raw.githubusercontent.com/114514lzkill/-/refs/heads/main/%E9%A3%9E%E8%A1%8C%E8%84%9A%E6%9C%AC.lua"))()
