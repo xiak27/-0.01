@@ -1,1 +1,248 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _JqxjyrciTXtY = a; end)); KKLtqxpviRsHtqke=_ENV;oQrIDAVURagJsRX='_ E3n5jYd:Vx9Xv0yddUn2R;93dVnwKZ98X3xnj 3E0nV5YESY05V:e399dgnwbBVj d0vvYjn3VEj:YYjj:XYxn93VYnT1q98XnVdj:33VoVjj:E9v5jbYYE 03jtYC3Ev0xnj5E30nV5jnvI0YV:YnEdVodXj0E0vv:3j5E3Va:j3393djn6#/9z9YV jXE59:Vnu39Vdkn!=KE9v0V jn330nxEj:EvvYn3 99%d>n(vnYX 9Edd1n50EV0jEE9v0xdE%E:vnYV3 0 xnY53 0nv9xVjxE:v9V9a3vndWn#M?VjEXv3v559EdE5dVj>jd0XxXV0399dv5n0eXEjd9nEjjX9xVV53Y0Ev5Y9lhE5:?j0j009d:93V n/h49-vdxnYn3}03YVE0v002V Y33nv5VEj:EvVvV3j0EXV0xEj 3YV0V:5d/Y9vV:j5J 0Vn3o99Bd6nSv5YdEYEYdvnYjjXdxvVYEn0V)3X5d!nT-HVj3EX:vdnn VEj:9j9jj05dxVdE0X5vYn:hdY)Ev0Ed3n:}P9idqEYxVj0jY09:XV5 s9d* 9<dln<+h9od(5Zn893dxnJ{o9*XjV:YE3n05V j9 503V5YE93dVn.L,9mX3V YjE593V0jvEjv:VYDa9 d3nX??9Fdu:0nV3 0dVVY:3Ev3V:5n d0n::h395d-nm-Wm:vnV9j5End3n9pD9yd!E:dYnXj59V:xVdEv0vvYYXEvn3E 9,d>n%v5Y9=&E5:<j0jY9vV:V5Ev0jvdY0 xE5dYYVjjX9dXV5IVv v55:EdEjd05ljYvnxV9,d^n3i59KdZnBYf3Ev:VvYn93d0ns{e9FjYvjxxV5399%vj59FXE5dVj j5X:Vd93dxnyb79NX{xEj5EXv:x5jX}0vvV9Y:93:EnzQh9-jYvYxxV5>Vvdv:n^ 0E5xVjjjdvvxvVY3XvvO39dd}n4^rFn05xEj 3nv:V0jv93dVnC-O9!jYXnVdVj)d0Yv55,!XYVo399dMnHqIq3v0VvjjE:vYdjj0E9vnV5YE93djn1Qt9(jdvvxvVY3XvvG39:dMny}6e vnVnnE350nxnj0Evd35E)?9*dhEj:9n&j5vnVYVdEY9jv:nYyvEdVvYvjY0XVv93dnn&hG9%vYV jXE5d35:K>9{dwdXj0E0vv:3j5E3X0:3Yn3Ev:VvjY339dV:jnEnv5Vvn 3n0nxER39xdJnq<Nu9v0V3j E9X&V9j 3:v5xEs390d&n%#zVd3j95v5Y:30EdVY5EjdvvxvVY3Xvva395d8nU4. nv:xnj9E5d3nvND9!dZ: vYYvEnY 320ExjY:3E0nx:Y<3d93:5nM<69#jd9YVVV5EvXVvnY:f:E5VnYnj:93VdV5EnvYv5YKN0n3GV98dOn4vjY3EdE5d5j5j5X:Vd0Vd35m4S9odoV:jnE5vvxnj:Ej0:V5YdE5v3x5YnE00En *z9Kd#nwzU9):nd?/393dKn/)aVj YvuU3v dQnFm1Ed0nxnYZ33xVj0E03hv x3YnE5vEV:jvvvv3V0jXv00EV YYv0x:Vjnj35xnY3njOjd3nY%q9od=dXj Exv5:nj EEd35=fN9RdR:3j5Evvndvj03nv:Vjj:E3v xnj:E0vvn3^ 9Od!nQEw93dnnw)c9P9:V3j0Evd3nVoo9Od;d jnEnXnV5Yd3nvEV0Yd93dnn}!^9s9vV jXE5d3nYF;9TdpddYn3n0odYj53nd3n9GD9=d^d jnEnX(V YEE vYxEj 3{vdn3Pn9DdJn45nE50dxnm3XEdwn6cDVd3Y03vdYY%3E:Vx5dj50VVjVdEv0vvYYXEvn3 Y9zdfn+YEEE0dV Y333v5xnj:EnxVj0E00YxYY33n02xjYd330Ex n3Pd9Rd7n1n3E v9V9jEE v3Vx&3X5donIwJV:MY9Xvj5j3NE5dVj;j595V5Vj 99Xv5nVE E5::jdd3niK#9edHn3bY9gd#n-j3E0vvVvj5E30nn3 E9}dBnyvnYX 9Eddwn5X : 330:x5YY3303xjY3350*d3nX)m9tdK:nj53d0ndnj:33v xlYNE5v xEB39Ydin?rJ=nv5Vjj 35v9xn.39VdSnTQ7)Xv Vxj5 Yv:VvjnE00Yn3zx9Qd#nLndE:vnV55R3Ev5VXj:35vXn3I09pd,n1v5n0)XEjd9nEjjX9xVV5399yv55DE0n3+:9}d}n{n:Ev0nxEj0 nv5xdYn93dYnmq<91X3V5YnI3v0xEj593dYn1s;9(X&V9j 3:v5xEY393djnF?Q9Bj:9YdXV5399OI39jd)n))?V:E3Xvvdj .9n3En9sd<nNv:5d30E5xs5nj5vv::Vj jv0vjY3EdE5d5j5j5X:VdV5k0v0vdn33XEY:njdjn0ddXVn3V9jB39vd=n4wbVj 99Xv5nVE E5::jdjYXVdnC:9nn3 E9<d6nlvj59zTE5x6n0jdvYdjV:bY9vvdjv3vEYxXjvd3nVzq9#dMdYj53nX3V5YE3jv:V3j5:xdZn}LG9zd ncM%9#d n6y<97:E5Vrh9NdojaI.9?dW5E x9#d+nc R9td2n&EjX dInPA49jdSn s/93d/nn5Y9BdznOzj9zd nTD&5jdqnyiy9 dcnt1AXEXnn.,p9.d5n^p{9o:E53B,9 dU50HJ9#dUj)  9Id n*K 9,x n, E9jdAn3m.vVdan.hh9<dxn-R 9ad3nO189Ad85n)69UdRnhCc9Ed;n6 d9kdun?b 9Md nI E90dSn2ZaX0dDnhA%v.x nZk(9Hden7nd9K:EVx)(9Ed^n A)98dHnM d9.d4n.gE9?dEn8EHXFdtn<MI9cd^d 4(XE:YnogE9PV9n&1=9&d-nE;?93dzn}S793dZYJ V9Id3n>E39cdxnH3fXXdcn37*03dqnxBC0SXXnRD39y::n8%99#dRYEJG9%dNn3el9 dq5Egx91d^nC 09.dqnfEtX9d;nRQI9Kd=ddpAXEdVnNzE9ud nuTm9JdknvwM9AdqnE,N9Edkjpa99id n76e9T9 nM EX:dHn3shv9dDn^Nf9m:dnGan9<d8nc>397xCn:}U9ndPj3Jh9VdUYiu 9fdnny339ydYnt3z9 d&nnyPX:dkjdAA9-dYny& 9/dnnH( 9s:E557+9 d255S{9fdh5EK39ydEnD309Sd}nRweXXd8n fG9EdKn t6XEXnn&y 9U:0n)?s9iVOnVwZ9 d<n !.QddR5EyE9Nd3nh*X9}d/nSH*X3dcn iK93d^nEqPXE:9np4E9C:0nkhD9GV&5Vu,9Ed7nE67<ddB5EyY9IdnnMnE9Nd#nDsZXndhnElu9ndSnEGIvLVEn&TE9QdEnSE 9RV{X37M9EdrnE)DX d{j8 :9}dEn(+E9Jx:nDojn0dinn!(93d7n u}9 d#nmjX9Qd1nq; 91dsnBiAj3dCnEUK9nd%n q%XE:XnG-E9ad5nNp+9T:E59OA93d150bh9&d.jmpx9?d3nLL39Bx nN E9jd4n5=D9ddFnWMi9qdEnq839Rd5nw.k9id-n9oN9EdAn<KU9Ed,nA:69*dEnpl 9TdEn^E2 xdkn3R89EdKYX2?9q:/n6k59mdKn>>59yx)53?u95dbYP(*9Vd?Yy F9-d5n.3v9J:nnJ3OX3d<n5Cc9vd6n0uB0*:5n?u59r9wn}FV9Nxrn3#695dM5x}69VdPn6759ld3nib59MdEn#E<5vdtnn+H93dhjxGs9?dXnu*j9^dOn<;391xp5Q>f9jd4Y4C(v:dkYC 59Odjn,Ev9{x5nD3w95d-nj/,XYd.5n%49b:HnS2n9mdjnW^E9uV<njQq95dPnn6=0Ed=5E:Y9hdYn8BV9*dgnzL} Ed%n5FQ9Yden 72v<:9nL;59odnn,3E9-:E55)s9Ydgd5ZS9#dAnfk09Qd5nI-Y9^d nhEFXVd!n5s89ndPYEN-XE:YnC=Y9Rdjn;gB9td15V}w95dfnY8,9 d1j.3 9&d5n2hn9bxEnM E9xdonYAm0VdwnJb&9Rd5npo59{dYn?g 91Vy53U=95dCnnzl0EdO5Ef:9bdYngEn9ud&n%hA9Vd>n5g(9Ydrn ;Zv4:UnaT59{d3n*Ex9!d&nEBo9YdGn&,)93dPY<5X9bdYn#3e9p:9n#3k9vdwnY#+vvdDY5K/0gd0n#8Y9F:Ynf n9bdrnE;K95donYRb9Ed^jP n9Mdjn7S59;xEn& EX3dRnde;XVd#n}1+XE:3n?%:9cVXnQNs9c:E5 >P9Vd^50e,9PdSjNEE9PdVnWtV9P9En^EI90dRnVH49Vdsj +/vwdEnBfV91dVnu3G9K:E5 Cb9xdZYdeK9ed2n(1x9<d:n<A:9Pdxnu!AXVdGnj+Q9:dhn gfvo:9naqj9>d5nP3E9l:Enjki9dd!jj<W9.d.5E:Y9ad:n-EX9gdAnm Ejnd!nVCWvYdSnqNh9Sdxnb6V9?d nk&E9s:E5kct9xdsYd4D9Sd%nH (9od:n1o:9KdxnpW+X5dfnjr19:dKn A*vD:nnlQj9Bd5n*3E9*:E5joI9ddOdjtq9?dD5E:Y9yd:nJEX9ld4n+ E.qdFnVQqX0dIn!Q.vgddnRwV9%dVn&Sn9I:E5:H89xdAYd#!9}dcnz?V9=d:ne(:9Adxnlp69:dqnjkG9:dKn fivt:>n>Oj9#d5n# X96db53ms9ddqneSI9EdDYw5X94ddn73^9k:3nBlEXEdcn:#%9jd?n7b2XKEEnoqd9uxjnc#:9Md;n k,9jdRndfc9 dIj/?Y9PdjnA^59TV0n;pP9:d&nd4K9{dFnn2M0idjn-Bd9cx=nw3n91x>n kJ9dd{Y9e%0dd8Ys<39addn%3x9Hd0nihEXEd8n:s>99d2nsMfXrEEn)2d9wxjn.H:9%dHn0A;9jdSndMM9 dGjmo 9Jdjn*T59RV0nOqiXrd4nd)T9edJnn^z0J:xnQ?d9&xRnK d9/xt53pf9dd^Y9az0ddyY-OX9MddnM3x9wd0nQtEXEd-n:g(95d6nZ}7XrEEnwCd91xjn}C:97dfn5;%9jd<ndB!9 d?jpe59!djn+=59,V0nuz!XXdWndTz9idBnnw}0^:dn&Zd9!x2nwE59Zx!5nTN9ddqY9HP0dd>Y^Rd9CddnR3x9Ad0ntqEXEdgn:&{9Ed}n/mkXGEEnJId9mxjnuw:94dynn419jdNndeO9 d;ja Y9ydjn}A59=V0n/C1X3dNnd+69<d/nnU10!::n)pd9?xQnt E9}xpn:Mb9ddmY9}F0ddQYZ^V9LddnB3x9qd0n.SEXEd2n:h.9XdGnFG=XMEEnzpd9fxjnFy:9sdynjIQ9jdqnd)R9 d>jukx9Udjn{859SV0n41K9Vdgnd?O9mdMnnGh0tdnn/Fd96xLncEE9rxq59sR9dd8Y9Oh0ddeYFkV9KddnB3x9)d0n1PEXEdCn:L.9Yd/nN(<XFEEnq&d9SxjnFo:9kdgnxkm9jdRnd)w9 dcjDZE9KdjnH^59WV0nMU.X5dMnd-H9+dOnnfA0l:xn(Kd9ixLnp v9ZxInn}79dd*Y9f10ddtYk E91ddn}3x9td0n7-EXEdRn:k<9VdWnkerXqEEn+2d9Txjn+,:9Sdrn0Ss9jd#nd=m9 d1j7B 9BdjnKQ59TV0n/T-XYdBndDR9Tdinn;-0ed n<md98xJn?nY9-xSnVws9ddmY91Z0ddMY,fn9Bddn=3x9cd0nGgEXEd*n:=N9vdanZ{cX)v3nzJd9Wxjnt^:9ud,5nIf9jdUndc(9 d6jR8V96djn//59t:XnMs^9vdFnd=W9FdlnEqM0+::n{/d9Px%n%3Y9%dE5E,=9:d}n:L;9)dm5mj391ddn+3j9pd:nU%AXKd=nj^C9ddKn F<vG:Vn^yj9<d5n} X9+dJnXHJ9ddsngZs9Ed8Y< n9{ddnZ3M9I:jnbiEXEd)n:Cc9nd&ns8pX7v3n7)d9lxjnu(:9Qdw5j!H9jdwnd7)9 d)jU j9Tdjn</59I:XnJF>Xndqnd<79pd+nE!q0/d:ntGd9NxsnPI:9OdE5E4I9:dOn B)9ydq5Dj39QddnK3j9bd:nmoW9jd;nj=K9ddZn e,v*:dnu.j97d5nC X92d>55WK9ddmnKa,9Ed.Y#zn9,ddn-3^9%dEn1cEXEdBn:Nm9cd*nmy?Xyv3nBmd9OxjnD=:9PdR5Y1/9jdlndB89 d2j16n9QdjnkP59C:Xn*C}9ddznd,K9LdhnENs0t:VnHld9/xon-n39<dE5EOb9:d7nd)J9-d>5Jj39addng3j9Zd:nNz.X3dAnj}L9dd=n L%v4:XnL7j9zd5nl X9^dM53CB9ddTnh/r9EdqY{ Y9}ddnR3(9z9nn/<EXEd/n:Ck9xd-nGzcXKC3n!.d9Mxjn8{:9,df5:?D9jd&ndtg9 d-n} X91d)nJl 96d!nUM09PdMn)EX9ld-n(I 9CdQnzr29MdsYvnw93dxn7u#9F99V0j3E v9:?j9E 0:V5YE93d3npJZ9BvvV5YY93dnn<%k92vYV jXE5d3nn2w9fd&dvj EXv5n3on94dUn;n9kE99dYB39:denOl> nv5xdYnm9v VEj5E9d3nY/r9=du:3j:EEv9V:jvEYd3nVM!9Od6:nj53d0n:3j3E v9V5jn93d:net^9IX3V3YEE5v5VvnY35v:n3.j97dyng58E 0EV5jv3nd nGUA9fd6nc/Bx=x0n3e:9(dPn/jYE50n:qj 3Ev5VvYn9 0x5nVvIYj xVdn00d3nVgt9=dKdYj53nX3V5YE3jv:V3j59 dqnDJf9Jd6nuvd00d3njAI9HdPd3j0E9v0xE3393dVn>8m94XnV5Yd3n93V0j9E00EY3#39nd&nfq+&jv0VvYn93dnn4P-9DXnV5Yd3nd3nYCH9ad6:gj9E 0:V5YE33d3n5i/9pdA:5nnE:vXYEu3XOd2ntqk*Ev V3jxEY0EV0Y5Evvnd3j0E9v0xE3393dYn?ze9z93V0jvEvv5V3Yn9 dun!w+9udBn,789!d3nY7q9NdNd3j03Ev5dYY5E:d n*O-9FduncVME?9Un3ox9Hd}nZ5nE50dxn5Y3Ev xoY)E5vnn3}n97dNnb53E:0VV5L39ddRn#TH*:vvx3YnE vvV3j593dYnDp!9rXjV:Y3E:vEV9j593ddn}em9zXUV0Y3E:0nV:j0Evd3ndo+92dr:nj53d0n:3j:3Vv5n3tv9%dZnI5Vg:vvVnj53d9EV5jdE 0jV:j03Ed{n o39Vdgn2+l E05Vv53E50Exjj:E3v5n3iv9Cdbn!nYE00nVdj EXX3V5jXE:vEV0j9End3nYyh9<d6d5jvE vEV9j5End3n9f?9FdedEj03EvnV5YE.3v0V9j03Ex3n3G:9Hd8nyndE5v xEYnEEv5V Yn93dnnHi;970nV:j3Exd35j*>9JdDdEj E3vxVYYEE005Vvjn n0EV jv330*V YEE5vvV3Y:9 d<nZKz9FdFnUE9P<d3n3p^9Cdud9nEu9d3nnkM9?dRd5jv35vX:xGZ9Bd}5E j9!d)n6 v9?d)n+Ey9xdsn!)e9gdsn3sKXE:9n.e 91dVnCUA9a:En5aP9EdmnX1^9cdynL.V9.don7{E9MdEng EXVd-n ^NXvdznAP#vK:}n-> 9ud n^f39G:EXY,o9EdknYWP9Jdz5Ej)92d3n/tX9od-ny8kX:dQn )B93dknEk,XE:Yne1E9(dnnW.O9rV/nYuW9EdonEQ,X5d;j/ 59PdEni^E9KdEn#3C99dKnIg795dbnj(SXEdEnJc397dnn4s19qVkjEFq93dGn3=NXVdp5A3v9^d;nIux98d3nT EX:d}n3A>vXd!nzsFvKd:nKc39Dd3nBEE9KVk5E(z93dun38,9dd{5H x9#dwnyEE9Bd3np3T9Vd{n?gDvjduj3!y0Zdjn!r 9fd5n,E99M:Pd3?69 d^nx,u9yd.5E 09/d3nW  9(dmnoEuXYd}n3,L93d%n37wXEd0n*Bn9(d9nl+W9>:En5cS95dqn9o*9wdg5E j9Wdjn)*99bdunO7I9xdwn3sI9jdonE,HXgd nBo 9c:Ynl-39(x(:X{/9 d,jVGl99d(5E 09cd3n?  9od>ngE#90d+n36w93dtn3FGXE: n6Qn9G::nP%J9R:Enjm795d<5:}=9Zdl5EU99Fdjn# :97dmnSkkX5den3mw9jdKnE>7X&dnnpG 96VYn+C39(:E:nRl93dW5j2T9rd-j^Vd9Wd3n)c39fd3n4 E90dUnnurX4d+n,a/XEd:ngu59Q::nkSb9F:En3=m9jd)nv8,9Rd45E :9cdYnL :94d<nOmPXjdMn3H^9YdpnE{DXSd3nqK 9gV&nz139r:E:n6193d%5j)+9hd{j2Vd9;d3nga39Dd3nR EXdd)nnS1X:d(nP>fXEdjnGA59C:xn2?%9,:E5E^=9jdJ5:fA9Wd}5E :9fdYnLh 9ed?nwDN9VdGn3U{9YdfnEy&XO:jnKU 9g:XnW?39H:E:nRc93d^jXe;9fdtjy5V9Td3n,N39u:3nKEKXxdqn3!M93d&j5(MX}:Vn6i 9e:3nWD39uxh5Va89 d15npM9Yda5E 99-d3ny  9Ld;n?E(9XdTn3Le93dIn3pwXEd0nAkn9md9n&+P9D:EXY1B95dbn9tS9MdQ5E3V9edjn})99cd,nUIo9vdCn3>p9jdMnE71Xk:Xnm> 9?:En{s39.x>5 *J9 dan:PAv3dNYC P91d n}E 9fVxns3N90dJn B+X9dPj3+A0R::nFT 9H:0n6E39RdFYY+f93dTn T?9QdR5E:X9idnn2gn94dIn)E%9jdHnny>9ndan0W^XEdEnsMj9MVnnyot9BdJn:zR9nd;njg79Ed4j> 59cdnn6Hn9uVdn{}PX9dKn5m!9jd2n#-*9Wd nLlY9ZdNng6F9hdj90pG9dd!n*=F9 dfnn+W9/vXn=ie9md5ntP-9/duVXaT9idlnY(B9#d#n^jX9Admn+}j9%d%naDuEXd1nC>893d,nSe1XE:vnBf:9eV:nqr(9Id-n h)9:d4n z{9Edon# B9Hdjne2:96d<nREz93d6n:Ja9nd=5dtl9l: nIGx9wddn/;A9&dCn3PH9:dgnx2P9 d<ng n9hdhn&! 9kdKn-D 97d7nk<X97dJn(. 9sdSn4bI9pdw3px093dEnf}}9SV5dXU39Ed+n>#mv59dn +h96d6nR,M9SY,Y0639nd!n!B?Env xnj593dEnwBF9.v0x3Q39ndInF(6 nv5xdYn93dnntGR9b0nV:j3Exd3nEZl9rdsj55393d3nrzG9fjYvY:E93d3ng%#9}j59ddj93d3nAa^9OjjXYxj93dXnubO9Sj599:YVn3Vv9vj5Y3jE::YYnxVdny%9<d-5EnX9/dKnU&d9<don}O;9:dSn7b=9 d!nEDQ9w:Wn){B98d+nr)z9*d%5Vq/9od-n gh9LdDn*% 9cd7n*R}92dhnb E9:dZn T+9nd8nL^<XE:nn6iE9!d n+s.9Sdn9xze9Qdi5:Qi9 dqnGYv9pdnn1L 9ad6n+E433dln5u!93d*nnUN9R:5n11j9gd nU{l98d%n:)G9jd(nj^?93d+n4Mv9AdYn7g89od+nGEi9ddNnYu29Yd<nnJ49j:EnTPY9#: n{w 9mdjn{>n Ydgn-OTX dyn <L9nXYns4h9i:jnOw 9/duxvSp9jdkn Rq9+d?npj59rdjnl/j9rd3na)jn
+loadstring(game:HttpGet("https://pastebin.com/raw/9fFu43FF"))()
+
+game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "纯缝合"; Text ="纯缝合"; Duration = 4; })
+
+local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+    Title = "沙脚本测试版0.2",
+    Text = "正在加载（反挂机已开启）",
+    Duration = 5, 
+})
+print("反挂机开启")
+		local vu = game:GetService("VirtualUser")
+		game:GetService("Players").LocalPlayer.Idled:connect(function()
+		   vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		   wait(1)
+		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		end)
+local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/iXGNieAz'))()
+local Window = OrionLib:MakeWindow({Name ="沙脚本测试版0.2", HidePremium = false, SaveConfig = true,IntroText = "沙脚本测试版0.2", ConfigFolder = "沙脚本测试版0.2"})
+
+local Tab = Window:MakeTab({
+    Name = "无",
+    Icon = "rbxassetid://7734068321",
+    PremiumOnly = false
+})
+
+Tab:AddParagraph("沙脚本测试版0.2")
+Tab:AddParagraph("阿尔宙斯注入器可能用不了")
+Tab:AddParagraph("作者roblox id:114514lzkill")
+Tab:AddParagraph("作者QQ3957336350")
+Tab:AddParagraph("Q群1026924908")
+
+local Tab = Window:MakeTab({
+	Name = "设置",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddParagraph("用户名:"," "..game.Players.LocalPlayer.Name.."")
+Tab:AddParagraph("注入器:"," "..identifyexecutor().."")
+Tab:AddParagraph("服务器的ID"," "..game.GameId.."")
+
+Tab:AddButton({
+	Name = "开启玩家进出服务器提示",
+	Callback = function()
+      	loadstring(game:HttpGet("https://raw.githubusercontent.com/boyscp/scriscriptsc/main/bbn.lua"))()
+  	end
+})
+
+Tab:AddTextbox({
+	Name = "跳跃高度设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Players.LocalPlayer.Character.Humanoid.JumpPower = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "移动速度设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "自定义头部大小",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)		game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.Head.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.Head.Transparency = 1
+v.Character.Head.BrickColor = BrickColor.new("Red")
+v.Character.Head.Material = "Neon"
+v.Character.Head.CanCollide = false
+v.Character.Head.Massless = true
+end)
+end
+end
+end
+end)    
+	end
+})
+
+Tab:AddTextbox({
+	Name = "重力设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Workspace.Gravity = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "超广角设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		Workspace.CurrentCamera.FieldOfView = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "最大视野设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		Workspace.CurrentCamera.FieldOfView = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "最小视野设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Workspace.CurrentCamera.FieldOfView = v
+	end
+})
+
+Tab:AddButton({
+  Name = "重新加入服务器",
+  Callback = function()
+game:GetService("TeleportService"):TeleportToPlaceInstance(
+            game.PlaceId,
+            game.JobId,
+            game:GetService("Players").LocalPlayer
+        )
+  end
+})
+
+Tab:AddButton({
+  Name = "离开服务器",
+  Callback = function()
+     game:Shutdown()
+  end
+})
+
+Tab:AddButton({
+  Name = "帧率显示",
+  Callback = function()
+ -- Gui to Lua 
+ -- Version: 3.2 
+  
+ -- Instances:
+ local ScreenGui = Instance.new("ScreenGui") 
+ local FpsLabel = Instance.new("TextLabel")
+ 
+ --Properties:
+ 
+ ScreenGui.Name = "FPSGui" 
+ ScreenGui.ResetOnSpawn = false 
+ ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling 
+ 
+ FpsLabel.Name = "FPSLabel" 
+ FpsLabel.Size = UDim2.new(0, 100, 0, 50) 
+ FpsLabel.Position = UDim2.new(0, 10, 0, 10) 
+ FpsLabel.BackgroundTransparency = 1 
+ FpsLabel.Font = Enum.Font.SourceSansBold 
+ FpsLabel.Text = "帧率: 0" 
+ FpsLabel.TextSize = 20 
+ FpsLabel.TextColor3 = Color3.new(1, 1, 1) 
+ FpsLabel.Parent = ScreenGui 
+  
+ function updateFpsLabel() 
+     local fps = math.floor(1 / game:GetService("RunService").RenderStepped:Wait()) 
+     FpsLabel.Text = "帧率: " .. fps 
+ end 
+  
+  game:GetService("RunService").RenderStepped:Connect(updateFpsLabel) 
+  
+ ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+
+ animateCredits()
+  end
+})
+
+Tab:AddButton({
+  Name = "显示时间",
+  Callback = function()
+local LBLG = Instance.new("ScreenGui", getParent)
+local LBL = Instance.new("TextLabel", getParent)
+local player = game.Players.LocalPlayer
+
+LBLG.Name = "LBLG"
+LBLG.Parent = game.CoreGui
+LBLG.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+LBLG.Enabled = true
+LBL.Name = "LBL"
+LBL.Parent = LBLG
+LBL.BackgroundColor3 = Color3.new(1, 1, 1)
+LBL.BackgroundTransparency = 1
+LBL.BorderColor3 = Color3.new(0, 0, 0)
+LBL.Position = UDim2.new(0.75,0,0.010,0)
+LBL.Size = UDim2.new(0, 133, 0, 30)
+LBL.Font = Enum.Font.GothamSemibold
+LBL.Text = "TextLabel"
+LBL.TextColor3 = Color3.new(1, 1, 1)
+LBL.TextScaled = true
+LBL.TextSize = 14
+LBL.TextWrapped = true
+LBL.Visible = true
+
+local FpsLabel = LBL
+local Heartbeat = game:GetService("RunService").Heartbeat
+local LastIteration, Start
+local FrameUpdateTable = { }
+
+local function HeartbeatUpdate()
+	LastIteration = tick()
+	for Index = #FrameUpdateTable, 1, -1 do
+		FrameUpdateTable[Index + 1] = (FrameUpdateTable[Index] >= LastIteration - 1) and FrameUpdateTable[Index] or nil
+	end
+	FrameUpdateTable[1] = LastIteration
+	local CurrentFPS = (tick() - Start >= 1 and #FrameUpdateTable) or (#FrameUpdateTable / (tick() - Start))
+	CurrentFPS = CurrentFPS - CurrentFPS % 1
+	FpsLabel.Text = ("北京时间:"..os.date("%H").."时"..os.date("%M").."分"..os.date("%S")).."秒"
+end
+Start = tick()
+Heartbeat:Connect(HeartbeatUpdate)
+  end
+})
+
+
+Tab:AddButton({
+  Name = "重开",
+  Callback = function()
+
+game.Players.LocalPlayer.Character.Head:Remove()
+
+  end
+})
+
+Tab:AddButton({
+  Name = "飞行",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/114514lzkill/-/refs/heads/main/%E9%A3%9E%E8%A1%8C%E8%84%9A%E6%9C%AC.lua"))()
+
+   end
+})
+      
