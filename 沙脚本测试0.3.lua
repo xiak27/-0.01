@@ -1,1 +1,246 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _tBvUZuIVFegf = a; end)); return(function(c,...)local d;local a;local r;local t;local f;local k;local e=24915;local n=0;local l={};while n<583 do n=n+1;while n<0x1ce and e%0x213c<0x109e do n=n+1 e=(e*777)%13143 local h=n+e if(e%0x1062)<=0x831 then e=(e+0x80)%0x451f while n<0x19d and e%0x2df2<0x16f9 do n=n+1 e=(e-862)%25084 local d=n+e if(e%0x3720)<0x1b90 then e=(e+0x1b5)%0x4d3c local e=51913 if not l[e]then l[e]=0x1 r={};end elseif e%2~=0 then e=(e-0xcd)%0x152a local e=27963 if not l[e]then l[e]=0x1 f=getfenv and getfenv();end else e=(e-0x25b)%0x6b5d n=n+1 local e=3865 if not l[e]then l[e]=0x1 t=string;end end end elseif e%2~=0 then e=(e*0x13e)%0x1b6d while n<0x344 and e%0x171c<0xb8e do n=n+1 e=(e-151)%49833 local k=n+e if(e%0x2460)<=0x1230 then e=(e-0x15e)%0xa99e local e=74258 if not l[e]then l[e]=0x1 f=(not f)and _ENV or f;end elseif e%2~=0 then e=(e-0x115)%0x82af local e=62057 if not l[e]then l[e]=0x1 d=function(l)local e=0x01 local function n(n)e=e+n return l:sub(e-n,e-0x01)end while true do local l=n(0x01)if(l=="\5")then break end local e=t.byte(n(0x01))local e=n(e)if l=="\2"then e=r.oIIdymZX(e)elseif l=="\3"then e=e~="\0"elseif l=="\6"then f[e]=function(n,e)return c(8,nil,c,e,n)end elseif l=="\4"then e=f[e]elseif l=="\0"then e=f[e][n(t.byte(n(0x01)))];end local n=n(0x08)r[n]=e end end end else e=(e-0x1ad)%0x90d8 n=n+1 local e=33349 if not l[e]then l[e]=0x1 a=tonumber;end end end else e=(e-0x207)%0x2d07 n=n+1 while n<0x307 and e%0x39a8<0x1cd4 do n=n+1 e=(e-438)%10963 local f=n+e if(e%0x29bc)<0x14de then e=(e-0x19)%0x32fb local e=82671 if not l[e]then l[e]=0x1 k="\4\8\116\111\110\117\109\98\101\114\111\73\73\100\121\109\90\88\0\6\115\116\114\105\110\103\4\99\104\97\114\73\65\82\67\83\111\88\109\0\6\115\116\114\105\110\103\3\115\117\98\89\72\95\79\106\95\80\109\0\6\115\116\114\105\110\103\4\98\121\116\101\75\74\81\112\72\113\72\116\0\5\116\97\98\108\101\6\99\111\110\99\97\116\72\77\113\113\101\120\110\97\0\5\116\97\98\108\101\6\105\110\115\101\114\116\83\109\73\74\85\72\101\121\5";end elseif e%2~=0 then e=(e+0xdd)%0x3e3b local e=42157 if not l[e]then l[e]=0x1 end else e=(e+0x123)%0xaf99 n=n+1 local e=89471 if not l[e]then l[e]=0x1 end end end end end e=(e*743)%27665 end d(k);local e={};for n=0x0,0xff do local l=r.IARCSoXm(n);e[n]=l;e[l]=n;end local function h(n)return e[n];end local l=(function(k,d)local c,l=0x01,0x10 local n={{},{},{}}local f=-0x01 local e=0x01 local t=k while true do n[0x03][r.YH_Oj_Pm(d,e,(function()e=c+e return e-0x01 end)())]=(function()f=f+0x01 return f end)()if f==(0x0f)then f=""l=0x000 break end end local f=#d while e<f+0x01 do n[0x02][l]=r.YH_Oj_Pm(d,e,(function()e=c+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 r.SmIJUHey(n[0x01],(h((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+t)%0x100)));t=k+t;end end return r.HMqqexna(n[0x01])end);d(l(149,"4&F#G>%McP:VNZ3lM!"));d(l(201,"u%k_ aASeHf3E7;Q_SS %ea,ea3_;Q%QQ_ef7kt%_3aHH%;A;;_%eSEkEa3;QAHeEkQS_HS+f ;fk%  e7HkESkHQ kQ7%0f_eS 3%7A%_aSefEAdb%#A_kEAH^7 aSffe; % ;Hee3_Q7k_aQHS3e%k%SSefHQkkk;Ak%E%;E_AA%_a7_Vk_fe 3_7_%_k;S_fjh _; ;_ASa%__Eek3k;%kS 3Ha3HQ%_kAkHfE_QE%3AaHV;3#;QPkf3oQAk3S_fa7Q7SatS H37a?_afHQfSHSE;SeHH7e%fk_e_eE73kE AefEaHSE7_ES;EHQ9_eAQf.Q9_kQA_%7 gA %SHf;7E%e eeA3377%QA_HQfS%_7dDE3k7Az; QSQaSQ7k7AAe;ESgA__A%3S;3-%aee_Eae;ESA7H77AQ;_SSA33Q%Q3__SQH7D%g3Q;_A7e%%_QS33e7a&SkfHk3EQH_QSk_SS+% _7S3f3;0kekEHSfA73w3aee77ff_7;S;fHQ_%;QkefES5%_eSkHf;A+3aaAa3E7H_%Q "));local e=(-1415+(function()local l,n=0,1;(function(e)e(e(e and e))end)(function(e)if l>215 then return e end l=l+1 n=(n*203)%6617 if(n%396)<198 then return e(e(e)and e(e))else return e end return e end)return n;end)())local h=r.yxKLaHuH or r.aXwtSsgr;local te=(getfenv)or(function()return _ENV end);local d=3;local k=4;local f=2;local ee=1;local function le(s,...)local o=l(e,"bkY1Xf2SiZzl8>wcw8Xiw8Z91fcXS8Y&8XX88ZX818SiYklYf1wzZi1cw81iYf8X1w>ZS>YX8Z2ZkKw8Zw11>fS8YAfZc8zmXXwii>1l>XSik8kQ>22>kZlZ2Z!filXwcuzk8>S2kXlif8wifYM2>1X>wY>Zi1YQ8X2ifokflzfZkkz8fiiZ1w>QSXkiz1NSlci>>2ZiS>liSl2f>w2wfXlwSY1clZXwXfcSi81y>X2}>YXfXZ8k2l1iZlYzYXiwXYsciZkwkf8 f89jzXilX>c8zy1z>>i1Yc2ZkklvfXciwfzXftw>Z*>kSckil824X8kkl:ffwXzzXkw>i>1>>ZkklZfic8zWZifk(nZ81ZSZYz8h2XDiZYw8ikS>82ik2Z8kSXfSzw18zfXXzff1w8ZA1XYXwli1Yf>Xf8k8lfSk6klYwfiwY8>xSXfck>8>2ZcklMckZ>1i>8i 2fY8>GfYYZ88S_/clYwZic1*>XSitYfSgXoZl2f;cXZiicfXwfZzX0>fi2cc>k2ZzffYw8ZP1XYf>>ilYZlcSfkwli2Sk1XkwZiiY8>*wXizYf8wSizZficUZX1i8f5Slkz>c2zlZ8:2lziS#kZ2i>XY>XSik8z2 FiiZkcXZli.w1222>zcfzfi8YS2X1l>fYXZk1Z#1X>i>4iiY>>lY8k2l>2X,k2{flwZZccPwXizYl>X2ZBl8;ffcifif1wZZi1Fi8f>Y18S2zc1zZXlz8i2WSSZY.872X&ik1lk2kc>1wwkifYc88SrkX6fl>2l ZZ8X>cY1fw2S8Yy8XlZc12wciYZ88SYkz8kfwvXz>XicX2YAXzZf2cjZX1i81kX88zwcX8SZZwiiZ>zXfczi81h>X26>1S1X8lcYc1ZZc1#YkZzYzkeSzYwclSfyz*kzwXiw8ZGiS1ZcYif9S>SSzk2l>fcZ>XcwXiiY8lSkz>1zkk8iXiwwiS>SZ8YS>2fl>S,2>kklXfic88+XfW8i81n>Xfw8Z21XZzXfX1fSw1iYXZ>XkkSiicicZXSwZw21A8z>YY8wwl>11>YzZYXi8ZfwXzSilc82>iZ11>3SXkirX>XSikiZ1ffEi1Zc>iVYX8i>XiXYi8i2c>zS1kSc8ZkXSw8ikYY8>S2>zl1215f2lfYwfZcclzZSzcw>k1X>Siw1YZk1z>iS8YNz>olzzZicfiXZ>2kwXiiY8lf1tZizkc{l1ic>zZZSZw2ZY2iw121fkZS2w1wZiY>YZSYY>kf2>YD}YXccXwcfg#zcfzX18whiX2Z1m>X2XkZ8w2k)llzX>U{Z8>ZilYB8X2ick1cwk>wYi8Y8zYXw2lf1xZizkc/l1zZffcnZX1iYfwwZi1z>l2XkZ>*S zkXwwii81<kf>8i/kX8Zi4Y<lY21kH1>cYiXYi88f2l41iXkl_1110Z1k2k>fcCzLiSYY2c12>%YcZlkX wXiikffSMkcwfYkWwZ1Yw8>fkZ>>8Yk8lkz>c2lkZZckzXzkfqwii81MlZ1E81zScYicZYwilYScw6Zzif1i88SnkXYk8L2fkYl8ffc2z>1>cXifYS>>i3kc82clZ8X*wXiiY8>diXfil>2>BXziX8XcoiSzfY>fSw1>lf22czl>21s2Xfwci81K>X>lilYw>Y2>-c8XcfZ818w+iXSkYc>ciYlZ214)zXXi18c8ZffkwkZY1S2Zkil_fXci>czcfYwwZf1SlziSYi8X2ZkzX>c2ZX1i>82Zzlfffk881XfZdEz!XXwi>zZkXk>>k>>Y2Xsiz81Xlk1XYX2VsZSZk>z1X>w>Z111>SSwkc8f2X>ZiXYC8X2if*Yf82fZk%zZf1c2Y>>lSXkil8l22>kz8}2fcfzX1kc1iZ1z2>kZlXfic8iScwZSS1w8Skf>z8Xi2fkYz8fNcX>czkfX>Si>1ww2S>kl8kRklZXiw8ZPk8fcY2mfSYtYc62Z>>>>X/cX8>:l>Xlfkilczkk#Z1zZfZc!ZX1i10wfZ818lWSZYSlZ28k;zZXZcw1kwlSik885>22zYXlk2SKlzkfXw>i8R2ZcX1wcZ111>iSiYY8i2S^zz>Y18X2ig8lJfXcil idwfZ>Y8>DSXcw2wcZw8Y8w2>21?wX8Y1fzcl6klzfZlwkiX>+SYkli>XZ>XSik8d>>1SSkzz1fZclZl11ciZz1f>wSlYlzX2ZMiz8fkcwSfX8c_ZY8fSY58lefX>wXcwi8ZO>>klfP>8+c22kYiziX8ctS>>jZl2f>Xf8fklwX>1wZYXcYzZl1XkffZk>*kfZt8w>1lcc>8klcZ8Ski>_lrYizkZ8k2i2zffiw8ZU1XYlwkiwYil2SlYXl>fw6fz1Xfc8Zf1cwYkZ812&eXziZcff9iSlXlcYiZ8ZS2k_lXfi2i}czfX8cczXX2wkizYS2fkXz8fTcXSw>XZw2l88i2f2zl2wXfZSfiXZM>Z&1X>iwXZX1i>iScwzi1YSj8zkfSc8Zk1Y>>i2wz81S1kfSl2YcfzcGlwZS8mclzSZkZZZS2zkXiwii81nYi>>ZX1X2XwXz8f&cXZi2kwViXYi8>S7kXli2w^2zXXiw8>T1X>iS81Y8c2iV8l}i1ciZ8XE.zZcY8><SXkwl82k/XlwX8cX>w1i>8igYz8i2>kJlizYc8zBXXwci81k>XSi1Z8_2X_iz>fBcXZiXwf>iXYi88lfkXlif8kYY>Xiw>ZdXl>iS8Y}wX2cq8lkfXcZZ82YwXZz1l>7SSki>c2<LXziX8ciZX1Z>8i1YX8i28kI8cfic8zAXXwiiw1E>Xikk88-2X-Zz8fkcXzzX>w0iXYiw1S7kXliS8_czXXiw8ZD1XkYS81Y8i2iqwlr2fciZ8X;wXZlY8>JSXkzl82YrX8iffctZX1i>8i^2i8iSwY>lXfzc8w1XXwii81jwcSikc8d2X4izcfeYXlX18w1iX1188zZkXwiSi-mzSXi1XZ-2>>iz8XY8X2lt8wSfXY2Z8XgXkiiY8>ASSkil>2=k2zcX8ceZXXc>8i,YXwiSwkMlXfic8zgSwwiZw1S>XSzk8>k2Xgiz8f_keZi18wBi2Yi8wSe1X>ff83kzXXiw8>X1XwzS>Y/8S2iXcl3fXciZ8zXwXi8Y8>ESXkll8Z*f8zif7cpZc1iklitfXw128kXlXzWc88kXXkiZf1M>iSif18xzY?iz8fwcXZZ18wXiXYZ88iYkflif>LHlSXiw8ZMX2>zS8YY8Xic-8l5fXciZcX(wfiiYw>BSfki8w>>9XzZX8%SZX1i>8zhfc8i2>kClffi12zdf2cci811>Xluk88,2X}i81f#cfZi1cw*i2Yi>wSkkXlzf8kSzXXiw8l{fr>iSwYR822iX2lK224iZ8XXwXlzY8>!SXki>k2Uh2zifNcdZ21ic8&8YX8z28kYlX2fc88rZzwiiw1?>2SiYf8/iXk1z8fYcXZz18kDiXYwYcSakilifcrBzfXiw>ZT1XflS8Y 8X2ZE8lpfXci>YX4w2ii1P>HSfki8wSZQXzzX81fZX1i>8ZY1c8i2ck(8lfic8zu2XcXi811>XSlk8wY2XkzlYf&cZZii1wpiXYi88izkXllf8#fzXXiw8Zpfa>iSwYa8X2iLwlJfXZ8Z8XYwXiZY8>YSX1i1w2{oSziXwcOz21i>8Z2YX8>28k_lXf>c8>jfCwiZk1EHZSifl8}ZXkfz8ffcXzY18cliXfiwYS,kZliSz5Ol8Xik8ZX1X>>S8Xi8XzS38w:2XcizkX5kSii2l>vSXfil821IXz>X8cYZXfifli#Yi8i2ckO8>fic8zSXXwwi81_>XSlk8c9S<:ilYfMYZZiX8w#lX1c88S2kXwZf81>zXSiw>Zd1z>iScYO>c2iI8lZfXc8Z8X2wXizY8cmSzki8k2F-iziSYcRz2l1>8iSYXsS28k6lXfiSizEXZwiZ11,>fSi18>l2Xu>z8fXcXlw18cYilYi>1SAf2lif8/(zXf2w8Zf1X>cS8Yk8Xiikil)fZcizKXCDzii1wwZSXkcl82kvXziX8cnzX1iwkitYl8i2>k)>X2Sc8zfXXw8i8f2>XizY>8t2lAiwYf%cXZi18c8iXY>88SSkXlZf8YWl_XickZ=1i>izYYT>2S:j8lSfXkYZ8X(wXii1Y><SZki812:rfzi28,ZZX1>>8i1YXwk28ko8Sfix1zqXXwiic1NoXZzk88S2X1>z8fXcX8iX2w:ilYic>SDfklii8qYzXXcw8Z11Xc1S8Yt>f2ikkl*flciZwXrMXz*Y8>2SXk>l8i2AXlzf8cvZ81iciiWYX8iSwY8lX2kc88mXXwii8XYwkSiY28DSlqiz8fMkXYX18wziX1Y88zYkX>i>>a%zwXic2Z=Xk>iZ81Y8XSYO8lzfXY>Z8fYcSii1S>DS2kil82OBXlYX8cZZXXk>8ilYX8iSYkTlzfi^fzWXfwiz81S>XSwk88f2XYwz82Yc2ZiXXwM8fYi88S)Y211f8NZzX2iw8Z-1XwzzfYx8w2i1ZlafXciZ8fPwXZYY8>kSXkzl8SYklzifScMZ21i>8irYX>828kZlX2kc8zlXXwiZ11o>zSiYf8j2f5i88f2cXZw18wfiXXw88iYkzli2XI}lgXiw8ZyX2f1S8YZ8Xii,8l_fXNz_YXIwwiiX1>mSXki>8SX-XlYX8czZXX2>8ZY1c8iSSkPl2fic8zMXXcci81Z>Xikk88l2XUiz>fLczZiXfwNifYiw8S8kXlwf86fzXfSw8Z+Xc>iiXYv8X2itwlEiXkzZ8XiwXl>Y8cfSXkzYS2&o>zifZcvZX1iw88iYX>328kilX2kc8z32kwiZY1s>8Sik>83iX#wz8f2cXZ>18_ZiXYi>>SUk8lif8<UziXik8ZZ1XwhS8ff8Xifx8w.2ccizXXjwZiiYw>RzXYYl82iKXwXX8)iZX1zXSi/Y>8iSzk}lXfi<8wiXXcvi81i>Xikk88:S>uilYfoc8Zi1>w}zXXX88S2kXl>f8YZzXXiclZ)18>iS8Y=8i2i18llfXARZ8SfwXiwY8}7ilki8X2M_ZziXwc?8X1z>8iiYX<X28YilXfz2SztX>wiZi1.>XSiY8Gi2XkVz8ficXzk18w.Z2Yi>YS/k8lif>#.8XX>w8Z21X>>S8XZ8X2ik1l4f8ciZ8XTwiiif8wYSXYrl8ZfFXw1X8YUz11iwXiMYZ8i2wkjwXfwc8ziXXYXi8Xi>XSziS8J2>QilkfKcXZiX8YiiX1-88SikX8kf8}QlSXicYZ-18>iS>Y=wXSZR8l2fXc>Z82ZwXiiXi>jS8kil8297iziS83XZXX5>8lfYX>828XQ8kfiDXzVXZwiiw1haXi2k88i2XXXz82icXZzzSwdi>Yi>1SDkXli28XizXfgw8Zi1XwkS8Yy>S2ikYl,f8ciZ>XrTXizY8>2SXk>l8iZ4XziflctZ81i>8i&Yi8iZ8Y+lX2hc8>fXXwci82EwXSiYX8.2ZoizwfmYXl118wiiX2X88iikXlz8S!tz>Xiw8Z_1X>ii82i8XS=F8lifXakZ8Xqckii1Y>rS8kil>2EYXlwX8c2ZX1>>8zZYX8ii2k-l8fic8z!Xiwil81z>Xi}k8cf2Xk>z8i}MZZiXXw_iZYi8wSJXX8zf8vizXiXw8zi1X>zwSYr8>2iE>lBfXciz8iiwXZdY8>iSXYkl82ok>zifYcFZ81i>>i!XX8w28k2lXf>c88ZXXwiz21I>8Sik88v2i!i>8f>cXz618kfiXfY88z_kili2X ?zZXiwwZr2XwlS8Yi8XzX_88ifXcz?SXNw>ii1f>USXki88lZ/XlTX8ciZXXk>8i+1l8iSYk:l8fic>zP2Xcii812>XS>k88c2Xqilif/c8Zi18wqi2Yic8ilkX8Uf81fzXS1w8ZYZc>iifYH8c2it8lP2XfkZ8XiwXZ<Y8>ZSXki8i2j#zzifXcdZf1ic8ilYX8w28kflX2Sc8zGfSwiZX1G>XSikw87ZXkzz8ficX8>18cciXYz1SSKk>lifwArzXXic8wZ1XwQS8Yi8XSkh8lA21cizYX4w8iiY>>OZX1Yl822EXz>X8ccZX1icXitY88i28kDl2fiY8
+loadstring(game:HttpGet("https://pastebin.com/raw/9fFu43FF"))()
+
+game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "纯缝合"; Text ="纯缝合"; Duration = 4; })
+
+local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+    Title = "沙脚本测试版0.2",
+    Text = "正在加载（反挂机已开启）",
+    Duration = 5, 
+})
+print("反挂机开启")
+		local vu = game:GetService("VirtualUser")
+		game:GetService("Players").LocalPlayer.Idled:connect(function()
+		   vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		   wait(1)
+		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		end)
+local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/iXGNieAz'))()
+local Window = OrionLib:MakeWindow({Name ="沙脚本测试版0.2", HidePremium = false, SaveConfig = true,IntroText = "沙脚本测试版0.2", ConfigFolder = "沙脚本测试版0.2"})
+
+local Tab = Window:MakeTab({
+    Name = "无",
+    Icon = "rbxassetid://7734068321",
+    PremiumOnly = false
+})
+
+Tab:AddParagraph("沙脚本测试版0.2")
+Tab:AddParagraph("阿尔宙斯注入器可能用不了")
+Tab:AddParagraph("作者roblox id:114514lzkill")
+Tab:AddParagraph("作者QQ3957336350")
+Tab:AddParagraph("Q群1026924908")
+
+local Tab = Window:MakeTab({
+	Name = "设置",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddParagraph("用户名:"," "..game.Players.LocalPlayer.Name.."")
+Tab:AddParagraph("注入器:"," "..identifyexecutor().."")
+Tab:AddParagraph("服务器的ID"," "..game.GameId.."")
+
+Tab:AddButton({
+	Name = "开启玩家进出服务器提示",
+	Callback = function()
+      	loadstring(game:HttpGet("https://raw.githubusercontent.com/boyscp/scriscriptsc/main/bbn.lua"))()
+  	end
+})
+
+Tab:AddTextbox({
+	Name = "跳跃高度设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Players.LocalPlayer.Character.Humanoid.JumpPower = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "移动速度设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "自定义头部大小",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)		game:GetService('RunService').RenderStepped:connect(function()
+if _G.Disabled then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+pcall(function()
+v.Character.Head.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+v.Character.Head.Transparency = 1
+v.Character.Head.BrickColor = BrickColor.new("Red")
+v.Character.Head.Material = "Neon"
+v.Character.Head.CanCollide = false
+v.Character.Head.Massless = true
+end)
+end
+end
+end
+end)    
+	end
+})
+
+Tab:AddTextbox({
+	Name = "重力设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Workspace.Gravity = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "超广角设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		Workspace.CurrentCamera.FieldOfView = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "最大视野设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		Workspace.CurrentCamera.FieldOfView = Value
+	end
+})
+
+Tab:AddTextbox({
+	Name = "最小视野设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Workspace.CurrentCamera.FieldOfView = v
+	end
+})
+
+Tab:AddButton({
+  Name = "重新加入服务器",
+  Callback = function()
+game:GetService("TeleportService"):TeleportToPlaceInstance(
+            game.PlaceId,
+            game.JobId,
+            game:GetService("Players").LocalPlayer
+        )
+  end
+})
+
+Tab:AddButton({
+  Name = "离开服务器",
+  Callback = function()
+     game:Shutdown()
+  end
+})
+
+Tab:AddButton({
+  Name = "帧率显示",
+  Callback = function()
+ -- Gui to Lua 
+ -- Version: 3.2 
+  
+ -- Instances:
+ local ScreenGui = Instance.new("ScreenGui") 
+ local FpsLabel = Instance.new("TextLabel")
+ 
+ --Properties:
+ 
+ ScreenGui.Name = "FPSGui" 
+ ScreenGui.ResetOnSpawn = false 
+ ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling 
+ 
+ FpsLabel.Name = "FPSLabel" 
+ FpsLabel.Size = UDim2.new(0, 100, 0, 50) 
+ FpsLabel.Position = UDim2.new(0, 10, 0, 10) 
+ FpsLabel.BackgroundTransparency = 1 
+ FpsLabel.Font = Enum.Font.SourceSansBold 
+ FpsLabel.Text = "帧率: 0" 
+ FpsLabel.TextSize = 20 
+ FpsLabel.TextColor3 = Color3.new(1, 1, 1) 
+ FpsLabel.Parent = ScreenGui 
+  
+ function updateFpsLabel() 
+     local fps = math.floor(1 / game:GetService("RunService").RenderStepped:Wait()) 
+     FpsLabel.Text = "帧率: " .. fps 
+ end 
+  
+  game:GetService("RunService").RenderStepped:Connect(updateFpsLabel) 
+  
+ ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+
+ animateCredits()
+  end
+})
+
+Tab:AddButton({
+  Name = "显示时间",
+  Callback = function()
+local LBLG = Instance.new("ScreenGui", getParent)
+local LBL = Instance.new("TextLabel", getParent)
+local player = game.Players.LocalPlayer
+
+LBLG.Name = "LBLG"
+LBLG.Parent = game.CoreGui
+LBLG.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+LBLG.Enabled = true
+LBL.Name = "LBL"
+LBL.Parent = LBLG
+LBL.BackgroundColor3 = Color3.new(1, 1, 1)
+LBL.BackgroundTransparency = 1
+LBL.BorderColor3 = Color3.new(0, 0, 0)
+LBL.Position = UDim2.new(0.75,0,0.010,0)
+LBL.Size = UDim2.new(0, 133, 0, 30)
+LBL.Font = Enum.Font.GothamSemibold
+LBL.Text = "TextLabel"
+LBL.TextColor3 = Color3.new(1, 1, 1)
+LBL.TextScaled = true
+LBL.TextSize = 14
+LBL.TextWrapped = true
+LBL.Visible = true
+
+local FpsLabel = LBL
+local Heartbeat = game:GetService("RunService").Heartbeat
+local LastIteration, Start
+local FrameUpdateTable = { }
+
+local function HeartbeatUpdate()
+	LastIteration = tick()
+	for Index = #FrameUpdateTable, 1, -1 do
+		FrameUpdateTable[Index + 1] = (FrameUpdateTable[Index] >= LastIteration - 1) and FrameUpdateTable[Index] or nil
+	end
+	FrameUpdateTable[1] = LastIteration
+	local CurrentFPS = (tick() - Start >= 1 and #FrameUpdateTable) or (#FrameUpdateTable / (tick() - Start))
+	CurrentFPS = CurrentFPS - CurrentFPS % 1
+	FpsLabel.Text = ("北京时间:"..os.date("%H").."时"..os.date("%M").."分"..os.date("%S")).."秒"
+end
+Start = tick()
+Heartbeat:Connect(HeartbeatUpdate)
+  end
+})
+
+
+Tab:AddButton({
+  Name = "重开",
+  Callback = function()
+
+game.Players.LocalPlayer.Character.Head:Remove()
+
+  end
+}Tab:AddButton({
+  Name = "飞行",
+  Callback = function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/114514lzkill/-/refs/heads/main/%E9%A3%9E%E8%A1%8C%E8%84%9A%E6%9C%AC.lua"))()
+
+   end
+})
+      
