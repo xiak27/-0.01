@@ -5,7 +5,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "纯缝合"; 
 local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
-    Title = "沙脚本测试版0.2",
+    Title = "沙脚本测试版0.3",
     Text = "正在加载（反挂机已开启）",
     Duration = 5, 
 })
@@ -17,7 +17,7 @@ print("反挂机开启")
 		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
 		end)
 local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/iXGNieAz'))()
-local Window = OrionLib:MakeWindow({Name ="沙脚本测试版0.2", HidePremium = false, SaveConfig = true,IntroText = "沙脚本测试版0.2", ConfigFolder = "沙脚本测试版0.2"})
+local Window = OrionLib:MakeWindow({Name ="沙脚本测试版0.3", HidePremium = false, SaveConfig = true,IntroText = "沙脚本测试版0.3", ConfigFolder = "沙脚本测试版0.3"})
 
 local Tab = Window:MakeTab({
     Name = "无",
@@ -25,7 +25,7 @@ local Tab = Window:MakeTab({
     PremiumOnly = false
 })
 
-Tab:AddParagraph("沙脚本测试版0.2")
+Tab:AddParagraph("沙脚本测试版0.3")
 Tab:AddParagraph("阿尔宙斯注入器可能用不了")
 Tab:AddParagraph("作者roblox id:114514lzkill")
 Tab:AddParagraph("作者QQ3957336350")
