@@ -7,7 +7,7 @@ local function createFancyUI(message, success)
     local screenGui = Instance.new("ScreenGui")
     screenGui.Name = "WhitelistStatusUI"
     screenGui.ResetOnSpawn = false
-    
+
     local frame = Instance.new("Frame")
     frame.Size = UDim2.new(0, 400, 0, 150)
     frame.Position = UDim2.new(0.5, -200, 0.5, -75)
@@ -15,11 +15,11 @@ local function createFancyUI(message, success)
     frame.BackgroundTransparency = 0.2
     frame.BorderSizePixel = 0
     frame.Parent = screenGui
-    
+
     local uiCorner = Instance.new("UICorner")
     uiCorner.CornerRadius = UDim.new(0, 12)
     uiCorner.Parent = frame
-    
+
     local label = Instance.new("TextLabel")
     label.Size = UDim2.new(1, -20, 1, -20)
     label.Position = UDim2.new(0, 10, 0, 10)
@@ -29,9 +29,9 @@ local function createFancyUI(message, success)
     label.TextScaled = true
     label.Font = Enum.Font.GothamBold
     label.Parent = frame
-    
+
     screenGui.Parent = PlayerGui
-    
+
     task.delay(5, function()
         screenGui:Destroy()
     end)
@@ -56,11 +56,11 @@ if success then
     end
 
     if isWhitelisted then
-        createFancyUI("✅ You are whitelisted! Running script...", true)
+        createFancyUI("✅ 验证成功！正在执行脚本...", true)
         loadstring(game:HttpGet("https://raw.githubusercontent.com/xiak27/637/refs/heads/main/small%20empty%20script.lua"))()
     else
-        createFancyUI("❌ You are not whitelisted!", false)
+        createFancyUI("❌ 你不在白名单内！", false)
     end
 else
-    createFancyUI("⚠️ Failed to fetch whitelist!", false)
+    createFancyUI("⚠️ 无法获取白名单数据！", false)
 end
